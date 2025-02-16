@@ -1,5 +1,5 @@
 # store_sharing_EDA_project
-# Bike Demand Project
+
 
 ## 📌 Proje Açıklaması
 Bu proje, **bisiklet paylaşım sistemlerindeki talep trendlerini analiz etmek** amacıyla oluşturulmuştur. **Veri görselleştirme**, **zaman serisi analizi** ve **istatistiksel incelemeler** ile kullanıcı davranışlarını anlamaya yönelik bir çalışma gerçekleştirilmiştir.
@@ -13,7 +13,7 @@ Bu proje, **bisiklet paylaşım sistemlerindeki talep trendlerini analiz etmek**
 ## 📂 Kurulum ve Kullanım
 1. Bu repository'yi klonlayın:
    ```sh
-   git clone https://github.com/kullaniciadi/bike-demand-project.git
+   git clone https://github.com/nsdezcan/store_sharing_EDA_project.git
    ```
 2. Gerekli bağımlılıkları yükleyin:
    ```sh
@@ -58,5 +58,5 @@ Projeye katkıda bulunmak istiyorsanız:
 Eğer herhangi bir sorunuz varsa, lütfen benimle iletişime geçin!
 
 ---
-**Hazırlayan:** [Nuriye Dezcan](https://github.com/kullaniciadi)
+**Hazırlayan:** [Nuriye Dezcan](https://github.com/nsdezcan)
 
